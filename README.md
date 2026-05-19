@@ -7,13 +7,11 @@ What it contains:
 
 A standard HTML boilerplate with <!DOCTYPE html>, <html>, <head>, and <body>
 <meta charset> and <meta viewport> tags for character encoding and responsive scaling
-Paragraphs using <p>
-A heading using <h1>
-Line breaks using <br>
+Paragraphs using <p>, headings using <h1>, and line breaks using <br>
 A hyperlink using <a href=""> pointing to an external URL
 An unordered list using <ul> and <li>
 
-html<h1>WEB pages are exciting</h1>
+<h1>WEB pages are exciting</h1>
 <a href="http://google.com">link to google</a>
 <ul>
     <li>one</li>
@@ -28,12 +26,11 @@ Multiple heading levels: <h2> for the page title, <h3> for section headers
 A descriptive paragraph using <p>
 An inline image using <img> with align, height, and width attributes
 An ordered list <ol> for profile details (favourite food, toy, habits)
-An unordered list <ul> with anchor links <a href=""> for external references
+An unordered list <ul> with anchor links for external references
 A horizontal rule <hr> used as a page divider
-Multiple <br> tags for spacing
 A footer-style paragraph with a last-updated note
 
-html<h2>Pochi the cat</h2>
+<h2>Pochi the cat</h2>
 <img align="right" src="../assets/cat.jfif" height="300px" width="300px">
 <ol>
     <li>Favourite food - Tuna</li>
